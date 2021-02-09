@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpardaPrime&show_icons=true&theme=synthwave)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpardaPrime&layout=compact&&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpardaPrime&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpardaPrime&layout=compact&&show_icons=true&theme=synthwave)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=garage&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/garage)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=Courses&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/Courses)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=BookStore&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/BookStore)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=Calendar-dev&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/StarWarsDb--app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=garage&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/garage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=Courses&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/Courses)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=BookStore&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/BookStore) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=Calendar-dev&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/StarWarsDb--app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpardaPrime&repo=Calendar-dev&&show_icons=true&theme=synthwave)](https://github.com/SpardaPrime/StarWarsDb--app)
 
